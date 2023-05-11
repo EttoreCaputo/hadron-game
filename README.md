@@ -72,5 +72,10 @@ AlphaBeta search with a depth of 12 in combination with a heuristic function.
 Feel free to open an _issue_.
 
 
+## License:
+This project is licensed under the terms of the MIT license.
+
+
+---
 #### Enjoy!
 
