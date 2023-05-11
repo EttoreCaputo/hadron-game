@@ -1,5 +1,10 @@
 # **Hadron Game AI**
 ![](image.png "Hadron board with PyGame")
+
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-orange)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](https://opensource.org/licenses/MIT)
+![python-version](https://img.shields.io/badge/python-3.7.3-blue)
+
 This is a game AI project for the course "Artificial Intelligence" at the University of Calabria, Italy.
 
 I made this project with my colleague [**Pasquale Mirko Aprigliano**](https://github.com/PasqualeMirko).
